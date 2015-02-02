@@ -1,0 +1,6 @@
+To see the code
+Open the vLab folder in Unity.
+
+To run the program:
+Install the final_project_bugs_squashed.apk on your android device.
+Print out the images in Vuforia media folder.
